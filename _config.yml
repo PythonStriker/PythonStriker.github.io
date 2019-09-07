@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
+title: PythonStriker's Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: 593601399@qq.com
+description: "每天吃吃喝喝洗洗睡睡，开心修仙每一天"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     None
+zhihu_username:     呵呵达
+github_username:    PythonStriker
+#twitter_username:  None
+facebook_username:  None
 
 
 
