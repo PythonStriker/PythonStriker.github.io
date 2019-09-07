@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: PythonStriker
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "动漫这么多，头发这么多，每日快乐修仙。"
-sidebar-avatar: ./img/author.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/author.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
