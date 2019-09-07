@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: 593601399@qq.com
 description: "每天吃吃喝喝洗洗睡睡，开心修仙每一天"
 keyword: ""
-url: "http://github.com"              # your host, for absolute URL
-baseurl: "/pythonstriker.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://pythonstriker.github.io"              # your host, for absolute URL
+#baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
