@@ -12,8 +12,8 @@ url: "http://pythonstriker.github.io"              # your host, for absolute URL
 
 # SNS settings
 RSS: false
-weibo_username:    B站_菊花里的MM 
-zhihu_username:     呵呵达
+#weibo_username:    B站_菊花里的MM 
+#zhihu_username:     呵呵达
 github_username:    PythonStriker
 #twitter_username:  None
 #facebook_username:  None
