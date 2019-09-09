@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "github page建设过程"
+subtitle:   "总结"
+date:       2019-09-07
+author:     "PythonStriker"
+header-img: "img/post-bg-unix-linux.jpg"
+tags:
+    - Linux
+    - Git
+---
+
 #1. linux下安装所需工具
 >* Ruby
 >> sudo apt-get install ruby-full 安装Ruby
@@ -23,7 +35,7 @@
 >	git push origin master
 
 
-#参考文献
+#参考文献   
 [Ruby菜鸟教程](https://www.runoob.com/ruby/ruby-installation-unix.html)
 [Node.js菜鸟教程](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 [简书](https://www.jianshu.com/p/9f198d5779e6)
